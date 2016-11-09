@@ -25,6 +25,7 @@ install-package nodejs.install
 # Instalar Office
 # Instalar Visual Studio
 # Instalar .NET Core
+install-package dotnetcore
 # Instalar Resharper
 
 # Instalar IIS
